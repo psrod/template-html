@@ -1,0 +1,8 @@
+{
+    "githubPullRequests.remotes": [
+        "origin",
+        "upstream",
+        "https://github.com/psrod/portafolio",
+        "https://github.com/psrod/online-cv"
+    ]
+}
