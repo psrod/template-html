@@ -53,18 +53,21 @@ Version:	1.1
 	-moz-transition: all 0.3s ease;
 	transition: all 0.3s ease;
 	background:rgba(0, 0, 0, 0.36);
+	
 }
 /* Logo */
 #header .logo {
 	padding-top: 17px;
+	
 }
 #header .logo a {
 	color: #fff;
 	text-transform: capitalize;
-	font-size: 22px;
+	font-size: 18px;
 	font-weight: 600;
 	position: relative;
 	padding-left: 16px;
+	
 }
 #header .logo a::before {
 	position: absolute;
@@ -74,6 +77,7 @@ Version:	1.1
 	height: 10px;
 	content: "";
 	border-radius: 100%;
+	
 }
 /* Main Menu */
 #header .nav-area{
