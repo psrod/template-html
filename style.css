@@ -396,7 +396,7 @@ Version:	1.1
 =========================*/  
 #personal-area {
 	/* background-image: url('http://via.placeholder.com/1500x800'); */
-	background-image: url('/images/personal/office.png');
+	background-image: url('images/personal/office.png');
 	background-size: cover;
 	background-repeat: no-repeat;
 	height: 680px;
@@ -510,7 +510,7 @@ Version:	1.1
 /* Personal Particle */
 #personal-area.particle {
 	/* background-image: url('http://via.placeholder.com/1500x800'); */
-	background-image: url('/images/personal/office.png');
+	background-image: url('images/personal/office.png');
 	z-index:100;
 	width:100%;
 	height:100%;
@@ -1335,7 +1335,7 @@ Version:	1.1
 =========================*/
 #countdown {
 	/* background-image: url(http://via.placeholder.com/1500x800); */
-	background-image: url('/images/personal/office.png');
+	background-image: url('images/personal/office.png');
 	background-size: cover;
 	background-position: center center;
 	position: relative;
@@ -1654,7 +1654,7 @@ Version:	1.1
 =========================*/
 #testimonials {
 	/* background: url('http://via.placeholder.com/1500x800'); */
-	background: url('/images/personal/office.png');
+	background: url('images/personal/office.png');
 	background-size: cover;
 	background-position: center;
 	position: relative;
@@ -2385,7 +2385,7 @@ Version:	1.1
 	position: relative;
 	overflow: hidden;
 	/* background-image: url('http://via.placeholder.com/1500x800'); */
-	background-image: url('/images/personal/office.png');
+	background-image: url('images/personal/office.png');
 	background-size: cover;
 	background-position: center;
 	z-index: 1;
@@ -2590,7 +2590,7 @@ Version:	1.1
 	background: #F8F8F8;
 	border-top: 3px solid;
 	/* background: url('http://via.placeholder.com/1500x800'); */
-	background: url('/images/personal/office.png');
+	background: url('images/personal/office.png');
 	background-size: cover;
 	background-repeat: no-repeat;
 	position: relative;
