@@ -510,7 +510,7 @@ Version:	1.1
 /* Personal Particle */
 #personal-area.particle {
 	/* background-image: url('http://via.placeholder.com/1500x800'); */
-	background-image: url('/images/personal/office.png');
+	background-image: url('//psrod.github.io/template-html/images/personal/office.png');
 	z-index:100;
 	width:100%;
 	height:100%;
