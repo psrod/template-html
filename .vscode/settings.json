@@ -4,5 +4,6 @@
         "upstream",
         "https://github.com/psrod/portafolio",
         "https://github.com/psrod/online-cv"
-    ]
+    ],
+    "liveServer.settings.port": 5502
 }
